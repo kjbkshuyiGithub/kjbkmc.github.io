@@ -5,16 +5,15 @@
 1. 请不要**盗取此文章**，本文章仅会在[海申官方Blog](https://hsrcblog.kjbkmc.top/)上发布
 2. 本文作者 **科技博客MC** 和 **HSRC建设团队**
 3. 本文写作日期为2024.9.7，如有版本更新此文档将会废弃（请查看最新文档）
-[![HSRClogo](https://vip.123pan.cn/1816474051/%E6%B5%B7%E5%9F%8E%E6%96%B0%E5%9F%8E%E5%9B%BE%E5%BA%8A/HSRClogo.jpg "HSRC logo")](https://hsrcblog.kjbkmc.top/)
-
-
+![HSRClogo](https://github.com/user-attachments/assets/ce8daa8b-cbc7-45b2-8289-5e383db24344)
 
 
 
 
 
 ### 对于海城市未来发展
-1. 线路图[![海城线路图](https://vip.123pan.cn/1816474051/%E6%B5%B7%E5%9F%8E%E6%96%B0%E5%9F%8E%E5%9B%BE%E5%BA%8A/RMP_1725683603967.png "海城线路图")]()
+1. 线路图![RMP_1725683603967](https://github.com/user-attachments/assets/cec5a2ea-ebb5-489c-909c-0dd216d34f03)
+
 
 2. 除了地铁线路图，海城目前已经规划城际/高铁线路（暂无线路图）
 </br>
@@ -23,8 +22,9 @@
 
 ### 申江市未来规划
 1. 申江城际：
-[![申江城际线路图](https://vip.123pan.cn/1816474051/%E6%B5%B7%E5%9F%8E%E6%96%B0%E5%9F%8E%E5%9B%BE%E5%BA%8A/6E61A769C96C3521B0C979F2484F8613.jpg "申江城际线路图")]()
+![6E61A769C96C3521B0C979F2484F8613](https://github.com/user-attachments/assets/be22812e-56d7-40a1-91a0-ccd7071a0eb9)
 </br>
+
 海城规划人发言：城际S1线有可能不会接到海城，但是可以乘坐高铁到达海城！
 
 ### 其他城市规划
